@@ -1,6 +1,6 @@
 Google Price prediction using historical data 
 Window-60 days
-used 3 features to predict price.
+Used 3 features to predict price(Closing price, etc).
 
 Future additions:
 1) Addding financial metrics like RSI, MACD, etc. to detect trends 
