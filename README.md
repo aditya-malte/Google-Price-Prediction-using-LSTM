@@ -6,7 +6,8 @@ Approach:
 1) Preprocessing the dataset
 2) Splitting the dataset per time-stamp(per day) where the output is the stock price of the 
 next day.
-Future additions:
+
+Future scope:
 1) Addding financial metrics like RSI, MACD, etc. to detect trends 
    in graph.
 2) Try training it in reverse too(i.e BiLSTM), to check for probable 
